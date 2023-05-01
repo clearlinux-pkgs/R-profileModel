@@ -4,7 +4,7 @@
 #
 Name     : R-profileModel
 Version  : 0.6.1
-Release  : 46
+Release  : 47
 URL      : https://cran.r-project.org/src/contrib/profileModel_0.6.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/profileModel_0.6.1.tar.gz
 Summary  : Profiling Inference Functions for Various Model Classes
